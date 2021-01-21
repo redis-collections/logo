@@ -1,2 +1,3 @@
-# logo
-Project logo
+# Logo
+
+Source files for the project logo.
